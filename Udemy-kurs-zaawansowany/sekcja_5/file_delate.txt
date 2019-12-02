@@ -1,0 +1,2 @@
+Action FILE_DELATE executed on c:\temp\dummy_file.txt on 2019-12-02 13:48:45
+Action FILE_DELATE executed on c:\temp\dummy_file.txt on 2019-12-02 13:48:45
